@@ -1,0 +1,44 @@
+body {
+    font-family: "Arial", 'Times New Roman', Times, serif;
+    font-size: 20px;
+    text-align:center;
+}
+h1{
+    font-size: 80xp;
+    text-align:center;
+}
+h2{
+    color:rgb(57, 85, 160);
+    font-style: italic;
+    font-family: serif;
+    font-size: 48xp;
+    text-align:center;
+}
+a{
+    color:rgb(40, 136, 83);
+    font-style: italic;
+}
+p{
+    font-weight: bold;
+}
+
+
+.Zkušenosti{
+    background-color: rgb(211, 231, 240);
+}
+
+.Vzdělávání{
+    background-color: rgb(247, 248, 187);
+}
+
+.Dovednosti{
+    background-color:rgb(211, 231, 240);
+
+}
+.Kontakt{
+    background-color:rgb(247, 248, 187);
+}
+.Foto{
+    background-color:rgb(211, 231, 240);
+
+}
